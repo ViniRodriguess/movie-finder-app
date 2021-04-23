@@ -1,7 +1,6 @@
 
 
  ## Movie Finder Find out how many movies were released and in what years
- ## Species: Human - Location: Earth (C-137)
  
 ## :computer: Technologies
 This project was made using the follow technologies:
